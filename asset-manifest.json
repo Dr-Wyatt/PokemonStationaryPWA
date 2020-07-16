@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PokemonStationaryPWA/static/css/main.5f361e03.chunk.css",
-    "main.js": "/PokemonStationaryPWA/static/js/main.58ad0ead.chunk.js",
-    "main.js.map": "/PokemonStationaryPWA/static/js/main.58ad0ead.chunk.js.map",
+    "main.js": "/PokemonStationaryPWA/static/js/main.884beca3.chunk.js",
+    "main.js.map": "/PokemonStationaryPWA/static/js/main.884beca3.chunk.js.map",
     "runtime-main.js": "/PokemonStationaryPWA/static/js/runtime-main.07396719.js",
     "runtime-main.js.map": "/PokemonStationaryPWA/static/js/runtime-main.07396719.js.map",
     "static/js/2.7745e02d.chunk.js": "/PokemonStationaryPWA/static/js/2.7745e02d.chunk.js",
     "static/js/2.7745e02d.chunk.js.map": "/PokemonStationaryPWA/static/js/2.7745e02d.chunk.js.map",
     "index.html": "/PokemonStationaryPWA/index.html",
-    "precache-manifest.dc6fdcdf4d48d5c02eb0cfd4e0114528.js": "/PokemonStationaryPWA/precache-manifest.dc6fdcdf4d48d5c02eb0cfd4e0114528.js",
+    "precache-manifest.f66802584ca9b8f6628a354173b5168e.js": "/PokemonStationaryPWA/precache-manifest.f66802584ca9b8f6628a354173b5168e.js",
     "service-worker.js": "/PokemonStationaryPWA/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/PokemonStationaryPWA/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.7745e02d.chunk.js.LICENSE.txt": "/PokemonStationaryPWA/static/js/2.7745e02d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.07396719.js",
     "static/js/2.7745e02d.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.58ad0ead.chunk.js"
+    "static/js/main.884beca3.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@ const Lists: React.FC = () => {
             {pokemonList.map(({ val }, i) => (
                 <div key={i}>
                     <div>
-                        <Link to={`/${val}`}>
+                        <Link to={`${process.env.PUBLIC_URL}/${val}`}>
                         <h2>{val}</h2>
                         </Link>
                     </div>

@@ -6,7 +6,7 @@ import Details from './components/Details';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Route path="/" exact component={Lists}/>
       <Route path="/:pokemon" exact component={Details}/>
     </BrowserRouter>

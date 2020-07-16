@@ -8,7 +8,7 @@ function App() {
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Route path="/" exact component={Lists}/>
-      <Route path={`${process.env.PUBLIC_URL}/:pokemon`} exact component={Details}/>
+      <Route path="/:pokemon" exact component={Details}/>
     </BrowserRouter>
   );
 }
